@@ -8,7 +8,7 @@ By Setting up monthly goal of how much to spend and how much to save up.
 - **Builds community:** In some cases, the right gamification mechanisms can foster a sense of community among users. For instance, leaderboards build an environment of healthy competition amongst peers
 - **Boosts engagement:** Gamification builds repeat behaviours with a action-reward mechanism, encouraging users to come back to the app regularly
 
-- ##Team Members
+  ##Team Members
 - Reem Abdulrhman Alghamdi
 - 📧 reemhassab@gmail.com
 - Saja Alamer 
