@@ -10,7 +10,7 @@ By Setting up monthly goal of how much to spend and how much to save up.
 
   ## Team Members
 - Reem Abdulrhman Alghamdi
-- 📧 reemhassab@gmail.com
+ 📧 reemhassab@gmail.com
 - Saja Alamer 
 - Latifah Ibrahim Alamer
-- 📧 Lte382@gmail.com
+ 📧 Lte382@gmail.com
